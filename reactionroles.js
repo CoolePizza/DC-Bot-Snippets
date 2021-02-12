@@ -71,4 +71,4 @@ client.on('message', async (msg) => {
 
 
 
-client.login('NzU1MTI4MTc4Nzc4OTY0MDA5.X1-x6w.NJgcPrQ8_31G0z8fuq_YvQPnTPw');
+client.login('TOKEN');
